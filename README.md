@@ -4,8 +4,8 @@ Simple attempt to a RPG game, written in BASH. You play as a man who is looking 
 
 AUTHORS :
 
-fluffybastard
-darksun4life
+* fluffybastard
+* darksun4life
 
 
 WARNING :
