@@ -18,3 +18,8 @@ SOURCES :
 We used ASCII work from 
 http://www.chris.com
 http://www.asciiworld.com
+
+
+HOW TO USE IT :
+
+Just run 'startgame.sh' and enjoy.
