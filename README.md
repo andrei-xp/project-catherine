@@ -5,8 +5,8 @@ Simple attempt to a RPG game, written in BASH. You play as a man who is looking 
 ---
 **AUTHORS:**
 
-* fluffybastard
-* darksun4life
+* [fluffybastard](https://github.com/fluffybastard)
+* [darksun4life](https://github.com/darksun4life)
 
 ---
 **WARNING:**
@@ -16,7 +16,7 @@ Some explicit language is used.
 ---
 **SOURCES:**
 
-We used ASCII work from 
+We used ASCII work from: 
 * http://www.chris.com
 * http://www.asciiworld.com
 
