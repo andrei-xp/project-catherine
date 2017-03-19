@@ -11,7 +11,7 @@ AUTHORS :
 ---
 WARNING :
 
-Some explicit language is used
+Some explicit language is used.
 
 ---
 SOURCES :
