@@ -22,4 +22,6 @@ http://www.asciiworld.com
 
 HOW TO USE IT :
 
-Download/Clone repo and run 'start_game.sh' and enjoy.
+Download/Clone repo and run 'start_game.sh'.
+
+Enjoy.
