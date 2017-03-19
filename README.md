@@ -1,6 +1,6 @@
 ABOUT :
 
-Simple attempt to a RPG game, written in BASH. You play as a man who is looking for his loved one. To complete the game, you need to use some simple Linux commands. No flag are implemented for the sake of simplicity.
+Simple attempt to a RPG game, written in BASH. You play as a man who is looking for his loved one. To complete the game, you need to use some simple Linux commands. No flags are implemented for the sake of simplicity.
 
 AUTHORS :
 
