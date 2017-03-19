@@ -16,8 +16,8 @@ some explicit language is used
 SOURCES :
 
 We used ASCII work from 
-http://www.chris.com
-http://www.asciiworld.com
+* http://www.chris.com
+* http://www.asciiworld.com
 
 
 HOW TO USE IT :
