@@ -23,6 +23,6 @@ We used ASCII work from
 ---
 HOW TO USE IT :
 
-Download/Clone repo and run 'start_game.sh'.
+Download/Clone repo and run `start_game.sh`.
 
 Enjoy.
