@@ -22,4 +22,4 @@ http://www.asciiworld.com
 
 HOW TO USE IT :
 
-Just run 'startgame.sh' and enjoy.
+Just run 'start_game.sh' and enjoy.
